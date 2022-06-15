@@ -18,7 +18,7 @@ const respostas = [
   "Voe nas nuvens comigo para repensar sobre isso.",
   "Vai em frente.",
   "Com sorte, sim!",
-  "Não saia de mansinho por causa da minha reposta, tente novamente.",
+  "Não saia de mansinho por causa da minha resposta, tente novamente.",
   "A esperança aponta que sim.",
   "Melhor assistir ao filme 'A HISTÓRIA SEM FIM' para descobrir.",
   "A esperança está com você.",
